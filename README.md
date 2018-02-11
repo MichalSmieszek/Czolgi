@@ -1,4 +1,4 @@
 Projekt zaliczeniowy z baz danych.
-Współautor Eryk Wilczyński.__
-W projekcie występują następujące funkcjonalności:
+Współautor Eryk Wilczyński.<br />
+W projekcie występują następujące funkcjonalności:<br />
 -Tworzenie no
