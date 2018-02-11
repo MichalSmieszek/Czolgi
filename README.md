@@ -12,5 +12,5 @@ Przykładowe funkcjonalności:<br /><br />
 -Naliczanie się waluty po wygranych lub przegranym meczu <br />
 Ponadto:<br />
 -Dodawanie nowych rzeczy występuje przez procedury i widoki <br />
--19 działajacych triggerów odpowiedzialnych za logikę (np. gracz nie może grać czołgiem, którego nie posiada, gracz nie może mieć więcej niż 6 czołgów czy po zakupie czołgu zmniejsza nam się ilość waluty.)<br />
+-19 działajacych triggerów odpowiedzialnych za logikę (np. gracz nie może grać czołgiem, którego nie posiada, gracz nie może mieć więcej niż 6 czołgów czy po zakupie czołgu zmniejsza nam się ilość waluty).<br />
 -Funkcje(statystyki).
