@@ -1,7 +1,7 @@
 Projekt zaliczeniowy z baz danych.
 Gracze rozgrywają mecz 10 vs 10, w grze podobnej do World of Tanks. W projekcie została zaprojektowana baza danych.
 Współautor Eryk Wilczyński.<br />
-W projekcie występują następujące funkcjonalności:<br /><br />
+Przykładowe funkcjonalności:<br /><br />
 -Tworzenie nowych graczy.<br />
 -Tworzenie nowych meczów.<br />
 -Zakup czołgów przez graczy.<br />
