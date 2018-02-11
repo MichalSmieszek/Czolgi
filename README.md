@@ -12,4 +12,4 @@ W projekcie występują następujące funkcjonalności:<br /><br />
 -Naliczanie się waluty po wygranych lub przegranym meczu <br />
 -Dodawanie nowych rzeczy występuje przez procedury i widoki <br />
 -19 działajacych triggerów odpowiedzialnych za logikę (np. gracz nie może grać czołgiem, którego nie posiada czy gracz nie może mieć więcej niż 6 czołgów)<br />
--Funckje(statystyki)
+-Funkcje(statystyki).
