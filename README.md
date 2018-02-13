@@ -13,5 +13,5 @@ Example functionality:<br />
 -And more :) <br /> <br />
 Moreover:<br />
 -Adding new things by procedures and views. <br />
--19 triggers respond for database logic (for example: Player cannot play tank, which player hasn't. Player cannot have more than 6 tanks ; Player cannot buy a tank, if he hasn't enough money. ).<br />
+-19 triggers respond for database logic (for example: Player cannot play tank, which player hasn't. Player cannot have more than 6 tanks. Player cannot buy a tank, if he hasn't enough money. ).<br />
 -Function(stats).
