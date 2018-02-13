@@ -1,16 +1,17 @@
-Projekt zaliczeniowy z baz danych.
-Gracze rozgrywają mecz 10 vs 10, w grze podobnej do World of Tanks. W projekcie została zaprojektowana baza danych.
-Współautor Eryk Wilczyński.<br />
-Przykładowe funkcjonalności:<br /><br />
--Tworzenie nowych graczy.<br />
--Tworzenie nowych meczów.<br />
--Zakup czołgów przez graczy.<br />
--Wybieranie czołgów do meczu. <br />
--Zakup ulepszeń do czołgów. <br />
--Wybór ulepszeń do czołgów z już zakupionych. <br />
--Zakup waluty przez gracza <br />
--Naliczanie się waluty po wygranych lub przegranym meczu <br />
-Ponadto:<br />
--Dodawanie nowych rzeczy występuje przez procedury i widoki <br />
--19 działajacych triggerów odpowiedzialnych za logikę (np. gracz nie może grać czołgiem, którego nie posiada, gracz nie może mieć więcej niż 6 czołgów czy po zakupie czołgu zmniejsza nam się ilość waluty).<br />
--Funkcje(statystyki).
+This is coursework from databases.
+20 players fights in ten-person team in game similar to World of Tanks. In project was implementent database.
+Co-autor Eryk Wilczyński.<br />
+Example functionality:<br /><br />
+-Adding new players.<br />
+-Adding new matches.<br />
+-Buying tanks by players.<br />
+-Choosing tank to match. by player. <br />
+-Buying booster to tanks. <br />
+-Choosing booster to tank. <br />
+-Buying money by player. <br />
+-Adding money after match. <br />
+-And more :) <br />
+Moreover:<br />
+-Adding new things by procedures and views. <br />
+-19 triggers respond for database logic (for example: Player cannot play tank, which player hasn't. Player cannot have more than 6 tanks ; Player cannot buy a tank, if he hasn't enough money. ).<br />
+-Function(stats).
