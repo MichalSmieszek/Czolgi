@@ -1,5 +1,5 @@
 This is coursework from databases.
-20 players fights in ten-person team in game similar to World of Tanks. In project database was implementent. <br />
+20 players fights in ten-person team in game similar to World of Tanks. In project database was implementented. <br />
 Co-autor Eryk Wilczyński.<br /> <br />
 Example functionality:<br />
 -Adding new players.<br />
